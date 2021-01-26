@@ -1,15 +1,15 @@
-# Salve a tutti
+# Hello everyone :wave:
 This is the profile of the notorious Camorra... <br/>
 I am the owner of the ethical hacking Discord server [PizzaByte](https://www.discord.gg/EgqzFfP) <br/>
 I may not be doing much here so apologies for that,, 
 
-## How to reach me 
+## How to reach me :mailbox:
 I have DMs and friend requests disabled on my discord,, <br/>
 You can find me on my server previously listed. 
 
-## Fun Facts
+## Fun Facts :dizzy:
 
-I'm thinking about doing linux from scratch. <br/>
+I'm about to begin my LFS project Linux Egg. <br/>
 I am currently learning C# <br/>
 Last but not least... I use Gentoo btw.
 
