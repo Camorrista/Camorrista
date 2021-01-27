@@ -1,20 +1,21 @@
-# Hello everyone :wave:
-This is the profile of the notorious Camorra... <br/>
-I am a penetration tester, Linux user, digital privacy man, and cool man.
+# Hello everyone <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+I am Camorra and you're reading my readme (good job) <br/>
+I am a penetration tester and Linux user. <br/>
 I am the owner of the Discord server [PizzaByte](https://www.discord.gg/EgqzFfP) <br/>
-I may not be doing much here so apologies for that,, 
 
 ## How to reach me :mailbox:
-You can find me on my server previously listed. 
+[Camorra#0875](https://www.discord.com) <br/>
+camorragit@tutanota.com 
 
-## Fun Facts :dizzy:
-
-I'm about to begin my LFS project Linux Egg. <br/>
-I am currently learning C#
+## About me :sunglasses:
+- :egg: Working on my LFS project Linux Egg <br/>
+- :book: I am currently learning C#
+- :eyes: I'm looking for work opportunities
+- :dizzy: I like practicing MMA, playing guitar, and being a nerd
 
 ## Technology :computer:
 
-![](https://img.shields.io/badge/OS-Gentoo_Linux-informational?style=flat&logoColor=white&color=1d1f21)
+![](https://img.shields.io/badge/Distro-Gentoo-informational?style=flat&logoColor=white&color=1d1f21)
 ![](https://img.shields.io/badge/Editor-vim-informational?style=flat&logoColor=white&color=1d1f21)
 ![](https://img.shields.io/badge/Shell-bash-informational?style=flat&logoColor=white&color=1d1f21)
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logoColor=white&color=1d1f21)
