@@ -3,7 +3,7 @@ I am Camorra! I am a penetration tester and Linux user. I own the Discord server
 
 ## How to reach me :mailbox:
 - <a href="https://www.discord.com/"><img src="https://img.shields.io/badge/discord%20Camorrista%200875-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-- <a href="camorragit@tutanota.com/"><img src="https://img.shields.io/badge/tutanota%20camorragit-840010?style=for-the-badge&logo=tutanota&logoColor=white"/></a>
+- <a href="https://tutanota.com/"><img src="https://img.shields.io/badge/tutanota%20camorragit-840010?style=for-the-badge&logo=tutanota&logoColor=white"/></a>
 
 ## About me :sunglasses:
 - :pencil: Working on my LFS project Linux Egg <br/>
@@ -13,10 +13,10 @@ I am Camorra! I am a penetration tester and Linux user. I own the Discord server
 
 ## Technology :computer:
 
-![GENTOO](https://img.shields.io/badge/Gentoo%20-grey?style=for-the-badge&logo=gentoo&logoColor=white&labelColor=a09ac6)
-![RASPIAN](https://img.shields.io/badge/Raspian%20-grey?style=for-the-badge&logo=raspberry-pi&logoColor=white&labelColor=b81040)
+![GENTOO](https://img.shields.io/badge/Gentoo%20-grey?style=for-the-badge&logo=gentoo&logoColor=white&labelColor=54487A)
+![RASPIAN](https://img.shields.io/badge/Raspian%20-grey?style=for-the-badge&logo=raspberry-pi&logoColor=white&labelColor=C51A4A)
 ![NVIM](https://img.shields.io/badge/Nvim%20-grey?style=for-the-badge&logo=neovim&logoColor=white&labelColor=57a143)
-![PYTHON](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=306998)
+![PYTHON](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)
 ![BASH](https://img.shields.io/badge/bash%20-grey?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=4EAA25)
 ![C#](https://img.shields.io/badge/CSharp%20-grey?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=9b4f97)
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=F16529)
